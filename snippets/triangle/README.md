@@ -2,7 +2,7 @@
 
 ### Triangle
 
-Creates a chevron arrow using borders and transformations
+Creates a triangle arrow using borders
 
 ### Requirements
 
